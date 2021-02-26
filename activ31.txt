@@ -2,6 +2,12 @@ Actividad31
 Nueva linea
 Nueva linea
 Nueva linea
+<<<<<<< HEAD
 Vamos a añadir nueva linea al fichero
 Vamos a añadir nueva linea al fichero
 Vamos a añadir nueva linea al fichero
+=======
+Vamos a añadir otra linea al fichero
+Vamos a añadir otra linea al fichero
+Vamos a añadir otra linea al fichero
+>>>>>>> actividad3
